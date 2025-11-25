@@ -1,67 +1,71 @@
 LinkedIn Banner – Ayoub Rachidi
-A modern, animated LinkedIn banner designed to showcase my profile as a Full-Stack Developer. This project combines minimalist design, luxury-inspired aesthetics, and a tech-focused theme to create a professional cover image for LinkedIn.
+
+This project contains a modern and professional LinkedIn banner designed using pure HTML and CSS (no frameworks).
+It includes animated backgrounds, code patterns, glowing effects, and a clean tech-focused layout.
 
 🚀 Features
-Responsive HTML/CSS layout tailored for LinkedIn banner dimensions (1584×396 px).
 
-Animated grid background with subtle glowing effects.
+Modern gradient background
 
-Code-like overlay pattern for a developer vibe.
+Light animated grid pattern
 
-Profile icon container with glassmorphism and glowing border.
+Code-style decorations to highlight a developer identity
 
-Tech stack icons (Next.js, React, Tailwind, Prisma, MongoDB, Stripe).
+Tech icons: Next.js, React, Tailwind CSS, Prisma, MongoDB
 
-Floating decorative circles for dynamic visuals.
+Soft glowing circles in the background
 
-Accent line & typography for a clean, modern look.
+Glassmorphism profile container
 
-🛠️ Tech Stack
-HTML5 – Structure
-
-CSS3 – Styling, animations, gradients
-
-SVG – Crisp, scalable tech icons
-
-Design Principles – Minimalist, modern, luxury-inspired
-
-📸 Preview
-This banner is optimized for LinkedIn profile covers. Dimensions: 1584px × 396px
+Clean and professional typography
 
 📂 Project Structure
-Code
-├── index.html   # Main HTML file
-├── assets/      # Profile logo or images
-⚡ Usage
-Clone the repository:
+/
+│── index.html       # Main HTML file
+│── logo.png         # Profile icon shown in the banner
+└── README.md        # Project documentation
 
-bash
-git clone https://github.com/AYOU-pixel/Cover-LinkedIn
-Open index.html in your browser.
+🧩 How to Use
 
-Replace logo.png in the profile-icon-container with your own profile image/logo.
+Download all files, including logo.png
 
-Customize tech stack icons or text to match your skills.
+Open index.html in any browser
 
-🎨 Customization
-Update the gradient background in .banner for different color themes.
+Modify the name, title, or tech stack directly in the HTML
 
-Replace or add SVG icons to reflect your stack.
+Adjust colors inside the .banner section if you want a different vibe
 
-Adjust title/subtitle text for your role or tagline.
+✨ Customization
 
-📌 Purpose
-This project was built to serve as a LinkedIn profile cover that reflects my identity as a developer:
+Change displayed name:
 
-Name: Ayoub Rachidi
+<div class="title">Ayoub Rachidi</div>
 
-Role: Full-Stack Developer
 
-Focus: Building modern and scalable web apps 🚀
+Modify subtitle:
 
-📧 Contact
-LinkedIn: Ayoub Rachidi
+<div class="subtitle">Full-Stack Developer</div>
 
-Portfolio: https://my-portfolio-xi-one-84.vercel.app
 
-Email: ayoubprograma@gmail.com
+Replace or add icons:
+Each icon is an SVG inside the HTML—easy to swap or edit.
+
+💾 Exporting as an Image
+
+To export the banner for LinkedIn:
+
+Chrome → Ctrl + Shift + P → "Capture full size screenshot"
+
+Or use any high-resolution screenshot tool
+
+📏 Recommended Size
+
+LinkedIn banner recommended resolution:
+1584 × 396 pixels
+(This design follows the recommended ratio.)
+
+🧑‍💻 Author
+
+Ayoub Rachidi
+Full-Stack Developer
+Focused on creating modern and scalable web applications.
