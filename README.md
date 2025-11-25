@@ -1,71 +1,38 @@
 LinkedIn Banner – Ayoub Rachidi
+📌 Overview
+This project is a custom-designed LinkedIn banner built with HTML and CSS. It visually represents Ayoub Rachidi as a Full-Stack Developer, showcasing his tech stack and modern design aesthetics. The banner is optimized for LinkedIn’s recommended size (1584 × 396 px) and combines professional typography with animated decorative elements.
 
-This project contains a modern and professional LinkedIn banner designed using pure HTML and CSS (no frameworks).
-It includes animated backgrounds, code patterns, glowing effects, and a clean tech-focused layout.
+✨ Features
+Elegant gradient background with floating circle animations.
 
-🚀 Features
+Code-inspired overlay pattern for a developer-centric feel.
 
-Modern gradient background
+Profile icon container with glowing border, blur effect, and shadow.
 
-Light animated grid pattern
+Tech stack icons (Next.js, React, Tailwind, Prisma, MongoDB, Stripe).
 
-Code-style decorations to highlight a developer identity
+Responsive typography with bold title, subtitle, and accent line.
 
-Tech icons: Next.js, React, Tailwind CSS, Prisma, MongoDB
+Animated grid background for subtle motion and depth.
 
-Soft glowing circles in the background
+🛠 Technologies Used
+HTML5 – semantic structure
 
-Glassmorphism profile container
+CSS3 – Flexbox, gradients, animations, shadows
 
-Clean and professional typography
+SVG Icons – lightweight, scalable tech logos
 
-📂 Project Structure
-/
-│── index.html       # Main HTML file
-│── logo.png         # Profile icon shown in the banner
-└── README.md        # Project documentation
+🚀 How to Use
+Clone or download the repository.
 
-🧩 How to Use
+Place your profile image in the project directory as logo.png.
 
-Download all files, including logo.png
+Open index.html in your browser to preview the banner.
 
-Open index.html in any browser
+Customize text, colors, or icons to match your personal branding.
 
-Modify the name, title, or tech stack directly in the HTML
+📷 Preview
+This banner is designed to fit perfectly as a LinkedIn cover image. Dimensions: 1584 × 396 px.
 
-Adjust colors inside the .banner section if you want a different vibe
-
-✨ Customization
-
-Change displayed name:
-
-<div class="title">Ayoub Rachidi</div>
-
-
-Modify subtitle:
-
-<div class="subtitle">Full-Stack Developer</div>
-
-
-Replace or add icons:
-Each icon is an SVG inside the HTML—easy to swap or edit.
-
-💾 Exporting as an Image
-
-To export the banner for LinkedIn:
-
-Chrome → Ctrl + Shift + P → "Capture full size screenshot"
-
-Or use any high-resolution screenshot tool
-
-📏 Recommended Size
-
-LinkedIn banner recommended resolution:
-1584 × 396 pixels
-(This design follows the recommended ratio.)
-
-🧑‍💻 Author
-
-Ayoub Rachidi
-Full-Stack Developer
-Focused on creating modern and scalable web applications.
+👨‍💻 Author
+Ayoub Rachidi Self-taught Full-Stack Developer passionate about building modern, scalable, and visually elegant web applications.
