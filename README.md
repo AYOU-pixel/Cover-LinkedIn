@@ -62,6 +62,6 @@ Focus: Building modern and scalable web apps 🚀
 📧 Contact
 LinkedIn: Ayoub Rachidi
 
-Portfolio: Coming soon
+Portfolio: https://my-portfolio-xi-one-84.vercel.app
 
-Email: your.email@example.com
+Email: ayoubprograma@gmail.com
